@@ -167,3 +167,6 @@ Top-performing hosts were found to excel in areas such as hospitality, cleanline
 Hosts should focus on maintaining high standards of service and actively engage with guest feedback to refine their offerings. Highlighting positive reviews in marketing strategies can further enhance a listing's appeal and competitive edge.
 5.	## In conclusion, this analysis underscores the pivotal role of customer satisfaction in the Airbnb marketplace and provides actionable insights for hosts seeking to optimize their listings' success.
 
+![Screenshot 2025-01-16 160016](https://github.com/user-attachments/assets/33076e05-3099-44f0-bdd5-2f443abe2260)
+
+
