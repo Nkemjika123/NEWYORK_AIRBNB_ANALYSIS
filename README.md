@@ -13,9 +13,9 @@ I developed a comprehensive project in Excel, with detailed tables with Pivot Ta
    - [Handling Missing Values](#handling-missing-values)  
    - [Date Extraction](#date-extraction)  
    - [Handling Outliers](#handling-outliers)  
-7. [Findings](#Project-insights)
-8. [Recomendations](#Recomendations)
-9. [conclusions](#conclusions)   
+7. [Findings](#Project-insight)
+8. [Recomendations](#Recomendation)
+9. [conclusion](#conclusion)   
 
 ## Project Objective:
 New York City Airbnb data want to provide insights and recommendations to improve the company's business model and increase revenue. By analyzing this data, New York City Airbnb will be able to make data-driven decisions about pricing, marketing, and customer experience.
