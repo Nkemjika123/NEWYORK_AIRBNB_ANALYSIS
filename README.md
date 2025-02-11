@@ -3,7 +3,7 @@
 I developed a comprehensive project in Excel, with detailed tables with Pivot Table, and visualizations in Tabeau. This process includes series of stage, including data processing, data cleaning, descriptive statistics and visualizations.
 
 ## Table of Contents
-1. [Project Overview](#project-overview)  
+1. [Project Overview](#Insights-into-New-York-Airbnb-Listings)  
 2. [Project Objective](#project-objective)  
 3. [Data Used](#data-used)  
 4. [Key Questions](#key-questions)  
