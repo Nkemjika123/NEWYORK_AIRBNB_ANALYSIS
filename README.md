@@ -1,5 +1,7 @@
 # Insights into New York Airbnb Listings
 
+I developed a comprehensive project in Excel, with detailed tables with Pivot Table, and visualizations in Tabeau. This process includes series of stage, including data processing, data cleaning, descriptive statistics and visualizations.
+
 ## Table of Contents
 1. [Project Overview](#project-overview)  
 2. [Project Objective](#project-objective)  
@@ -11,8 +13,9 @@
    - [Handling Missing Values](#handling-missing-values)  
    - [Date Extraction](#date-extraction)  
    - [Handling Outliers](#handling-outliers)  
-
-I developed a comprehensive project in Excel, with detailed tables with Pivot Table, and visualizations in Tabeau. This process includes series of stage, including data processing, data cleaning, descriptive statistics and visualizations.
+7. [Findings](#Project-insights)
+8. [Recomendations](#Recomendations)
+9. [conclusions](#conclusions)   
 
 ## Project Objective:
 New York City Airbnb data want to provide insights and recommendations to improve the company's business model and increase revenue. By analyzing this data, New York City Airbnb will be able to make data-driven decisions about pricing, marketing, and customer experience.
