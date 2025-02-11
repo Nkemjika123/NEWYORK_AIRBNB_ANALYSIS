@@ -1,4 +1,17 @@
 # Insights into New York Airbnb Listings
+
+## Table of Contents
+1. [Project Overview](#project-overview)  
+2. [Project Objective](#project-objective)  
+3. [Data Used](#data-used)  
+4. [Key Questions](#key-questions)  
+5. [Dashboard](#dashboard)  
+6. [Data Cleaning](#data-cleaning)  
+   - [Removing Duplicates](#removing-duplicates)  
+   - [Handling Missing Values](#handling-missing-values)  
+   - [Date Extraction](#date-extraction)  
+   - [Handling Outliers](#handling-outliers)  
+
 I developed a comprehensive project in Excel, with detailed tables with Pivot Table, and visualizations in Tabeau. This process includes series of stage, including data processing, data cleaning, descriptive statistics and visualizations.
 
 ## Project Objective:
