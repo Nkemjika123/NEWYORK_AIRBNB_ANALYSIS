@@ -5,23 +5,28 @@ I developed a comprehensive project in Excel, with detailed tables with Pivot Ta
 ## Table of Contents
 1. [Project Overview](#Insights-into-New-York-Airbnb-Listings)  
 2. [Project Objective](#project-objective)  
-3. [Data Used](#data-used)  
-4. [Key Questions](#key-questions)  
-5. [Dashboard](#dashboard)  
-6. [Data Cleaning](#data-cleaning)  
+3. [Data Used](#data-used)
+4. [Tools Used](#Tools-Used)  
+5. [Key Questions](#key-questions)  
+6. [Dashboard](#dashboard)  
+7. [Data Cleaning](#data-cleaning)  
    - [Removing Duplicates](#removing-duplicates)  
    - [Handling Missing Values](#handling-missing-values)  
    - [Date Extraction](#date-extraction)  
    - [Handling Outliers](#handling-outliers)  
-7. [Findings](#Project-insight)
-8. [Recomendations](#Recomendation)
-9. [conclusion](#conclusion)   
+8. [Findings](#Project-insight)
+9. [Recomendations](#Recomendation)
+10. [conclusion](#conclusion)   
 
 ## Project Objective:
 New York City Airbnb data want to provide insights and recommendations to improve the company's business model and increase revenue. By analyzing this data, New York City Airbnb will be able to make data-driven decisions about pricing, marketing, and customer experience.
 
 ## Data Used 
 - <a href="https://github.com/Nkemjika123/-NEW_YORK_AIRBNB_ANALYSIS/blob/main/newyork_bnb_analysis.xlsx">Dataset</a>
+
+## Tools Used:
+- **Excel** for data cleaning
+- **Tableau** for visualization.
 
 ## Key Questions:
 1.	What is the average price of Airbnb listings in each neighbourhood and how does it vary by room type?
